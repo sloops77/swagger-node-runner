@@ -20,7 +20,7 @@
     "url": "https://github.com/theganyo/swagger-node-runner.git"
   },
   "dependencies": {
-    "bagpipes": "^0.0.6",
+    "bagpipes": "sloops77/bagpipes.git#5a7a2863d3e57d87e5a9fa8e0f29d9dcfd2fa99c",
     "config": "^1.16.0",
     "cors": "^2.5.3",
     "debug": "^2.1.3",
