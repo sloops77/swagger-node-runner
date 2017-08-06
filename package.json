@@ -21,7 +21,7 @@
   },
   "dependencies": {
     "async": "^1.5.0",
-    "bagpipes": "git@github.com:sloops77/bagpipes.git#5a7a2863d3e57d87e5a9fa8e0f29d9dcfd2fa99c",
+    "bagpipes": "sloops77/bagpipes.git#5a7a2863d3e57d87e5a9fa8e0f29d9dcfd2fa99c",
     "body-parser": "^1.14.1",
     "config": "^1.16.0",
     "cors": "^2.5.3",
